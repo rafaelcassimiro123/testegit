@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">gitexemplo</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Atlético Mineiro</string>
+    <string name="second_fragment_label">Galo Doido</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Aqui é GALO!
+    </string>
+</resources>
